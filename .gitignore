@@ -1,0 +1,9 @@
+report.html
+log.html
+output.xml
+*.png
+.idea
+.project
+red.xml
+venv/
+libspecs/
