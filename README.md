@@ -6,17 +6,11 @@ Project containing a suites of automated tests, for Liquibase's HUB web applicat
 
 ### System dependencies
 
-Install both [Python 3.7.1](https://www.python.org/downloads/) and Python's package manager [pip](https://pip.pypa.io/en/stable/).
+Install both [Python 3.7.1+](https://www.python.org/downloads/) as well as Python's package manager [pip](https://pip.pypa.io/en/stable/).
 
 Use git to [clone](https://git-scm.com/docs/git-clone), or download and extract, this Project's repository.
 
-chromedriver for Chrome
-
-TODO:
-
-geckodriver for Firefox
-
-TODO:
+Install [ChromeDriver](https://chromedriver.chromium.org/downloads) to be able to execute the automated tests on Chrome. Keep in mind that the ChromeDriver versions should match up and coincide with the version of Chrome on which the automation will execute. Don't forget to add the path location where you install ChromeDriver to your system's PATH environment
 
 ### Library dependencies
 
